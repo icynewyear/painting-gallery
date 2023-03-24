@@ -1,12 +1,12 @@
 # Site settings
-title: PHOTORAMA
+title: Galery
 email: ""
-description: "Photo Journal"
+description: "A gallery of available paintings"
 url: "https://icynewyear.github.io"
 baseurl: "/painting-gallery"
 facebook_username: ""
-twitter_username: ""
-instagram_username: ""
+twitter_username: "icynewyear"
+instagram_username: "icymakesstuff"
 github_username:  ""
 deviantart_username: ""
 flickr_username: ""
@@ -27,7 +27,7 @@ owner:
 # Disable comments for individual pages/posts by specifying 'comments: false' in the page/post YAML Front Matter.
 #
 comments :
-  provider : disqus
+  provider : false
   disqus :
     short_name : ""
 
